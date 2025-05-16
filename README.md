@@ -23,7 +23,7 @@
   <a href="https://linkedin.com/in/uchhassaha007/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
   <a href="https://x.com/utshow__" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
   <a href="https://facebook.com/uchhas.007" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" /></a>
-  <a href="https://www.instagram.com/uchhas_/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
+  <a href="https://www.instagram.com/_utshoww_/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
 </p>
 
 ---
